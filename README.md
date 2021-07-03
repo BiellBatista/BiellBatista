@@ -108,5 +108,5 @@ Outros            ▒░░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BiellBatista&show_icons=true&theme=gotham" alt="BiellBatista" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiellBatista&layout=compact&show_icons=true&theme=gotham" alt="BiellBatista" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=BiellBatista&show_icons=true&theme=gotham" alt="BiellBatista" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiellBatista&layout=compact&show_icons=true&theme=gotham" alt="BiellBatista" /></p>
