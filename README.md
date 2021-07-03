@@ -20,9 +20,11 @@
 <a href="https://autociencia.blogspot.com/">
   <img align="left" alt="Gabriel de Almeida Batista | Blogger" width="22px" src="https://camo.githubusercontent.com/eeac430277690b34033ac53d96e6fdb113365ab6351886945a6d7bb4702c92cf/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f626c6f676765722e737667" />
 </a>
-
 <a href="https://medium.com/@GabrielAlmeidaBatista">
   <img align="left" alt="Gabriel de Almeida Batista | Medium" width="22px" src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" />
+</a>
+<a href="https://www.meetup.com/members/263236178/">
+  <img align="left" alt="Gabriel de Almeida Batista | Meetup" width="22px" src="https://camo.githubusercontent.com/f1e0db9f8f4edb81ea9d183bdeb59d410243bf768372a2f2c83a4a54b20844fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d65657475702e737667" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=BiellBatista.BiellBatista)
