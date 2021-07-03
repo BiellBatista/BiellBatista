@@ -84,6 +84,11 @@ Pessoalmente, escrevo 📚 para o blog [Autociência](https://autociencia.blogsp
 <!--Prettier--><code><img height="40" src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4"></code>
 <!--Marcado Pago--><code><img height="40" src="https://avatars.githubusercontent.com/u/900583?s=200&v=4"></code>
 <!--Bot Framework--><code><img height="40" src="https://www.sebraepr.com.br/wp-content/uploads/botframework.png"></code>
+<!--LUIS--><code><img height="40" src="https://qnamaker.azureedge.net/Images/Icon-Language-Understanding.png"></code>
+<!--Watson--><code><img height="40" src="https://avatars.githubusercontent.com/u/10017763?s=200&v=4"></code>
+<!--Dialog Flow--><code><img height="40" src="https://avatars.githubusercontent.com/u/8170782?s=200&v=4"></code>
+<!--QnA Maker--><code><img height="40" src="https://www.luis.ai/assets/images/homePage/qnaMakerIcon.png"></code>
+<!--Scikit-Learn--><code><img height="40" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
