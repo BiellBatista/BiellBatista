@@ -45,8 +45,14 @@ Pessoalmente, escrevo 📚 para o blog [Autociência](https://autociencia.blogsp
 
 **Tecnologias ⚙ e Ferramentas 🛠:**  
 
+<!--C#--><code><img height="40" src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png"></code>
 <!--JavaScript--><code><img height="40" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"></code>
 <!--HTML--><code><img height="40" src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667"></code>
+<!--.NET Core--><code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"></code>
+<!--Node.js--><code><img height="40" src="https://image.flaticon.com/icons/png/512/919/919825.png"></code>
+<!--Nest.js--><code><img height="40" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
+<!--Adonis.js--><code><img height="40" src="https://avatars.githubusercontent.com/u/13810373?s=280&v=4"></code>
+<!--K8s--><code><img height="40" src="https://butecotecnologico.com.br/kubernetes-explicado/k8s-logo.png"></code>
 <!--Docker--><code><img height="40" src="https://camo.githubusercontent.com/b9279edfece526123a96af67ea002acdd47e84e5ad05126faa08ab3332f8a9ef/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646f636b65722e737667"></code>
 <!--GIT--><code><img height="40" src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667"></code>
 <!--Bitbucket--><code><img height="40" src="https://camo.githubusercontent.com/f41d8404b5103b76f7961cfa693b3c12a42b84f26af03d79e30382f6454294fc/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6269746275636b65742e737667"></code>
@@ -58,8 +64,7 @@ Pessoalmente, escrevo 📚 para o blog [Autociência](https://autociencia.blogsp
 <!--Windows--><code><img height="40" src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667"></code>
 <!--Raspberry Pi--><code><img height="40" src="https://camo.githubusercontent.com/c2ccb80448b60208568ddf7d98bfe5e6b37c6aef4d8abd4204defa743ca10619/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7261737062657272795f70692e737667"></code>
 <!--Ubuntu--><code><img height="40" src="https://camo.githubusercontent.com/c100a44b540f6bcea3f7bae169d5f75b44e8994a83deeaf2e9b7e7f9523c8bd3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7562756e74752e737667"></code>
-
-
+<!--Trello--><code><img height="40" src="https://camo.githubusercontent.com/7ac5d3cdee334102901b70f018d38b77dc59a29f92dd392683dc01608aead0bc/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7472656c6c6f2e737667"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
