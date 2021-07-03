@@ -76,6 +76,7 @@ Pessoalmente, escrevo 📚 para o blog [Autociência](https://autociencia.blogsp
 <!--Raspberry Pi--><code><img height="40" src="https://camo.githubusercontent.com/c2ccb80448b60208568ddf7d98bfe5e6b37c6aef4d8abd4204defa743ca10619/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7261737062657272795f70692e737667"></code>
 <!--Azure DevOps--><code><img height="40" src="https://media-exp3.licdn.com/dms/image/C560BAQGDq_jNWJhTjQ/company-logo_200_200/0/1566324987720?e=2159024400&v=beta&t=LbqW8QVdQChA_BG2DEPJDkjWBNnkwnBNuMiraBdO_ng"></code>
 <!--Trello--><code><img height="40" src="https://camo.githubusercontent.com/7ac5d3cdee334102901b70f018d38b77dc59a29f92dd392683dc01608aead0bc/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7472656c6c6f2e737667"></code>
+<!--Miro--><code><img height="40" src="https://avatars.githubusercontent.com/u/48276018?s=200&v=4"></code>
 <!--Visual Studio Code--><code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png"></code>
 <!--Visual Studio--><code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png"></code>
 <!--Grafana--><code><img height="40" src="https://camo.githubusercontent.com/bee320292f0271ebca73841185b7d354e32113cec197347df8d80e5fda596b96/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f67726166616e612e737667"></code>
@@ -92,30 +93,20 @@ Pessoalmente, escrevo 📚 para o blog [Autociência](https://autociencia.blogsp
 <!--QnA Maker--><code><img height="40" src="https://www.luis.ai/assets/images/homePage/qnaMakerIcon.png"></code>
 <!--Scikit-Learn--><code><img height="40" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4"></code>
 
-📊 **this week i spent my time on:**
+<br />
+<br />
+<br />
+
+📊 **Tenho investido meu tempo em:**
 <!--START_SECTION:waka-->
 ```text
-JSX          21 hrs 13 mins  ████████████████████▒░░░░   81.99 % 
-JavaScript   3 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-JSON         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-CSS          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+.NET Core         ██████████████▒░░░░░░░░░░   40.00 % 
+Nest.js           ██████████▒░░░░░░░░░░░░░░   30.00 % 
+Arquitetura       ████▓░░░░░░░░░░░░░░░░░░░░   15.00 % 
+.NET Framework    ██▒░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Outros            ▒░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BiellBatista&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=BiellBatista&show_icons=true&theme=gotham" alt="BiellBatista" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiellBatista&layout=compact&show_icons=true&theme=gotham" alt="BiellBatista" />
